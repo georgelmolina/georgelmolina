@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**georgelmolina/georgelmolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [George] 👋
 
-Here are some ideas to get you started:
+Junior Data & BI Analyst based in Switzerland 🇨🇭
+EU citizen, no sponsorship needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+SQL · Power BI · Excel · [Python]
+
+## Featured projects
+Coming soon. Repos are being cleaned and anonymized.
+
+## Languages
+English · German · Spanish
+
+## Contact
+[LinkedIn URL]
