@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm [George] 👋
+# Hi, I'm George👋
 
 Junior Data & BI Analyst based in Switzerland 🇨🇭
 EU citizen, no sponsorship needed.
